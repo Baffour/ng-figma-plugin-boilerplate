@@ -106,6 +106,5 @@
         }
       }
     }
-  },
-  "defaultProject": "ng-figma-plugin-boilerplate"
+  }
 }
