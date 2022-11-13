@@ -1,0 +1,10 @@
+{
+  "name": "Angular Plugin Boilerplate",
+  "id": "1173621087593337844",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma"
+  ],
+  "ui": "index.html"
+}
